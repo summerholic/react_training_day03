@@ -1,11 +1,22 @@
 {
-  "name": "6.todo",
+  "name": "example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "2.1.1",
+    "semantic-ui-react": "0.83.0",
+    "semantic-ui-css": "2.3.1",
+    "redux": "4.0.0",
+    "react-redux": "5.0.7",
+    "redux-thunk": "2.3.0",
+    "auto-bind": "1.2.1",
+    "moment": "2.22.2",
+    "react-datepicker": "1.6.0"
+  },
+  "devDependencies": {
+    "prop-types": "15.6.2"
   },
   "scripts": {
     "start": "react-scripts start",
